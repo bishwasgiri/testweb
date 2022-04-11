@@ -1,0 +1,80 @@
+/* body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#one {
+    background-color: red;
+}
+#two {
+    background-color: blue;
+}
+#three {
+    background-color: green;
+}
+#four {
+    background-color: pink;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    margin:10px;
+    padding: 10px;
+}
+
+.box {
+    border-radius: 5px;
+}
+.wrapper {
+    box-sizing: border-box;
+}
+.red {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    padding: 50px 0px 0px 50px;
+    box-sizing: border-box;
+    /* keep border-box where we want the div */
+/* } */
+/* .yellow {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+.box-1 {
+    background-color: aqua;
+}
+
+.first {
+    background-color: white;
+}
+.box-2 {
+    background-color: brown;
+}
+
+.second {
+    background-color: pink;
+}  */
+
+.outer-box{
+    background-color: red;
+    height:200px;
+    width:200px;
+    padding:50px 0 0 50px;
+    box-sizing: border-box;
+}
+
+.inner-box{
+    background-color: yellow;
+    height:100px;
+    width:100px;
+}
+
+.sdf{
+    margin-top:20px;
+}
